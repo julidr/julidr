@@ -3,7 +3,7 @@
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=julidr&color=FAC151)]()
 ![Python](https://img.shields.io/badge/Python-Intermediate-1e415e)
-![Java](https://img.shields.io/badge/Python-Intermediate-ed2025)
+![Java](https://img.shields.io/badge/Java-Intermediate-ed2025)
 <a href="https://www.linkedin.com/in/juliana-milena-diaz-ramirez-54487113b/"> <img alt="julidr's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 Hello 👋
