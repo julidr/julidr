@@ -17,7 +17,7 @@ My name is Juliana Diaz, I'm a software engineer with mostly experience in backe
 
 [Kuro-bot](https://github.com/julidr/kuro-bot) a Discord bot that offers basic information about [Shōjo☆Kageki Revue Starlight Re Live](https://www.en.revuestarlight-relive.com/) gatcha game. Like the stage girls birthday and events reminders.
 
-On more serious issues, I am currently working as a developer for [PayU Latam](https://colombia.payu.com/en/home/).
+On more serious issues, I am currently working as a developer for [Nu Colombia](https://nu.com.co/).
 
 ## 📫 How to reach me: ##
 
